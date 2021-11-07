@@ -1,0 +1,10 @@
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe.config
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.exe
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\bin\Debug\Compiladores 2019.pdb
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Analizador Semantico.csproj.AssemblyReference.cache
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Analizador Semantico.csproj.GenerateResource.cache
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Analizador Semantico.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.exe
+C:\Users\LUIS\Desktop\3-21\Proyecto Final DOOES\Compiladores 2019\obj\Debug\Compiladores 2019.pdb
