@@ -231,6 +231,7 @@
             this.txt2.Size = new System.Drawing.Size(400, 181);
             this.txt2.TabIndex = 11;
             this.txt2.Text = "";
+            this.txt2.TextChanged += new System.EventHandler(this.txt2_TextChanged);
             // 
             // Form1
             // 
